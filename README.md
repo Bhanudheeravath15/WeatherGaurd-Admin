@@ -6,7 +6,7 @@ This project is structured specifically with a focus on **modular architecture**
 
 ---
 
-## 🏗️ System Architecture & Design
+## System Architecture & Design
 
 ### High-Level Component Flow
 
@@ -66,7 +66,7 @@ Tracks the history of alerts sent to users for audit and statistics.
 
 ---
 
-## 🔄 Data Flow (Securing "Approved-Only" Alerts)
+## Data Flow (Securing "Approved-Only" Alerts)
 
 To ensure that **only approved users** receive weather notifications, the system implements a strict multi-layer verification check.
 
@@ -153,7 +153,7 @@ The project is structured as a monorepo consisting of:
 
 ---
 
-## 🧪 How to Evaluate / Test (No Keys Needed!)
+## How to Evaluate / Test (No Keys Needed!)
 
 We have built a custom **Sandbox Mode** to make evaluating this project simple, even if you don't want to set up Google/GitHub OAuth apps or create a Telegram Bot.
 
